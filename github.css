@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+    
+    
+}
+body{
+
+  margin: 1px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.main {
+    border: 6px solid grey;
+   height: 742pX;
+    width:100%;
+    background-color:#CAD2C5;
+    position: relative;
+   
+}
+.box{
+    
+    height: 100px;
+    width: 100px;
+    /* position:absolute; */
+}
+
+.box1{
+    
+    background: #2F3D46;
+    width:100%;
+    
+    text-align:start;
+    font-size: 20px;
+    font-weight: bold;
+    display:flex;
+    
+    align-items: center;
+    justify-content: start;
+    flex-flow: row-reverse;
+    color:#CAD2C5;
+    gap: 700px;
+
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.fa-brands {
+   padding: 30px; 
+   
+
+    /* padding-inline: 400px; */
+    /* text-align:start;
+    font-size: 20px;
+    font-weight: bold;
+    display:flex;
+    
+    align-items: center;
+    justify-content: center;
+
+    flex-flow: row-reverse; */
+
+    
+
+
+}
+.box2{
+    margin-top: 80px;
+    background:#353535;
+    position :absolute;
+    left: 35px;
+
+    width: 400px;
+    border-radius: 20px;
+    height: 530px;
+}
+
+.box3{
+    
+    background: #353535;
+    margin-top: 70px;
+    width: 700px;
+    height: 50px;
+    right: 150px;
+    border-radius: 10px;
+    position :absolute;
+    text-align:start;
+    font-size: 25px;
+    font-weight: bold;
+    color:#CAD2C5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box4{
+    margin-top: 220px;
+    width: 250px;
+    height: 150px;
+    right: 710px;
+    border-radius: 20px;
+    
+    
+    background:#353535;
+    position :absolute;
+    
+
+}
+.box5{
+    margin-top: 220px;
+    width: 250px;
+    height: 150px;
+    right: 355px;
+    border-radius: 20px;
+     background: #353535;
+    position :absolute;
+}
+
+.box6{
+    margin-top: 220px;
+    width: 250px;
+    height: 150px;
+    right: 10px;
+    border-radius: 20px;
+     background: #353535;
+    position :absolute;
+    
+}
+.box7{
+    
+    min-width: 950px;
+    right: 10px;
+    height: 150px;
+    margin-top: 450px;
+    border-radius: 20px;
+ background: #353535;
+    position :absolute;
+}
+
+
+
+
+
